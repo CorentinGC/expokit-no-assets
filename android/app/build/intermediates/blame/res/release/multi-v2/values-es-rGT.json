@@ -4,7 +4,7 @@
             "outputFile": "/Users/corentingc/Desktop/smartphone-app/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rGT/values-es-rGT.xml",
             "map": [
                 {
-                    "source": "/Users/corentingc/.gradle/caches/transforms-2/files-2.1/468893e3c43390820a6a21f8b4c20e2d/jetified-android-image-cropper-2.7.0/res/values-es-rGT/values-es-rGT.xml",
+                    "source": "/Users/corentingc/.gradle/caches/transforms-2/files-2.1/206135ba4fe1d3b1aa4aa2b1e84c48f1/jetified-android-image-cropper-2.7.0/res/values-es-rGT/values-es-rGT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

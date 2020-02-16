@@ -128,120 +128,120 @@
 -keep class net.openid.appauth.RedirectUriReceiverActivity { <init>(); }
 # Referenced at /Users/corentingc/Desktop/smartphone-app/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:474
 -keep class versioned.host.exp.exponent.modules.api.components.webview.RNCWebViewFileProvider { <init>(); }
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml:57
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:52
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_alert_dialog_button_bar_material.xml:43
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml:57
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_alert_dialog_button_bar_material.xml:43
 -keep class android.widget.Space { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_select_dialog_material.xml:23
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_select_dialog_material.xml:23
 -keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_action_menu_item_layout.xml:17
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_action_menu_item_layout.xml:17
 -keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_expanded_menu_layout.xml:17
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_expanded_menu_layout.xml:17
 -keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_popup_menu_item_layout.xml:17
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_list_menu_item_layout.xml:17
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_cascading_menu_item_layout.xml:20
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_popup_menu_item_layout.xml:17
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_cascading_menu_item_layout.xml:20
 -keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:27
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:27
 -keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:43
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_action_mode_bar.xml:19
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:43
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_action_mode_bar.xml:19
 -keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:17
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:17
 -keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_action_menu_layout.xml:17
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_action_menu_layout.xml:17
 -keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_activity_chooser_view.xml:19
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_activity_chooser_view.xml:19
 -keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:18
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:18
 -keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/43e42500c75981191c56ef04d2002265/jetified-facebook-common-5.0.1/res/layout/com_facebook_smart_device_dialog_fragment.xml:47
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/43e42500c75981191c56ef04d2002265/jetified-facebook-common-5.0.1/res/layout/com_facebook_device_auth_dialog_fragment.xml:45
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ae31a20c2667f68d93b45581e3e8051b/jetified-facebook-common-5.0.1/res/layout/com_facebook_smart_device_dialog_fragment.xml:47
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ae31a20c2667f68d93b45581e3e8051b/jetified-facebook-common-5.0.1/res/layout/com_facebook_device_auth_dialog_fragment.xml:45
 -keep class androidx.appcompat.widget.AppCompatImageView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_alert_dialog_button_bar_material.xml:26
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_alert_dialog_button_bar_material.xml:26
 -keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_screen_content_include.xml:19
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_screen_content_include.xml:19
 -keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml:45
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml:45
 -keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml:23
 -keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_screen_simple.xml:17
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_dialog_title_material.xml:22
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_screen_simple.xml:17
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_dialog_title_material.xml:22
 -keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_search_view.xml:75
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_search_view.xml:75
 -keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout-v26/abc_screen_toolbar.xml:37
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/res/layout/oauth_webview_activity.xml:5
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/res/layout/info_activity.xml:14
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:36
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout-v26/abc_screen_toolbar.xml:37
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/res/layout/oauth_webview_activity.xml:5
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/res/layout/info_activity.xml:14
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:36
 -keep class androidx.appcompat.widget.Toolbar { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml:32
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_screen_simple.xml:25
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_screen_simple.xml:25
 -keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/8ba03d5d4c56ada5718d9f0d3957895a/browser-1.0.0/res/layout/browser_actions_context_menu_page.xml:5
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b95914e4baa624ccd62e39f196240e79/browser-1.0.0/res/layout/browser_actions_context_menu_page.xml:5
 -keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/43e42500c75981191c56ef04d2002265/jetified-facebook-common-5.0.1/res/layout/com_facebook_smart_device_dialog_fragment.xml:22
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/43e42500c75981191c56ef04d2002265/jetified-facebook-common-5.0.1/res/layout/com_facebook_device_auth_dialog_fragment.xml:22
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ae31a20c2667f68d93b45581e3e8051b/jetified-facebook-common-5.0.1/res/layout/com_facebook_smart_device_dialog_fragment.xml:22
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ae31a20c2667f68d93b45581e3e8051b/jetified-facebook-common-5.0.1/res/layout/com_facebook_device_auth_dialog_fragment.xml:22
 -keep class androidx.cardview.widget.CardView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/71f878751c312e5a1ce316523e39be12/material-1.0.0/res/layout/design_bottom_sheet_dialog.xml:26
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/45763ff76661f4805f35fdeb585fd4cc/material-1.0.0/res/layout/design_bottom_sheet_dialog.xml:26
 -keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/08d5dcb2ad36c8c391956f8e4b207bda/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:41
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/9d48753aa4fb6d9a4d547eac6c81950c/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:41
 -keep class androidx.core.widget.NestedScrollView { <init>(...); }
 
 # Referenced at /Users/corentingc/Desktop/smartphone-app/android/app/src/main/res/layout/error_activity_new.xml:2
 -keep class androidx.viewpager.widget.ViewPager { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/71f878751c312e5a1ce316523e39be12/material-1.0.0/res/layout/design_bottom_navigation_item.xml:27
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/45763ff76661f4805f35fdeb585fd4cc/material-1.0.0/res/layout/design_bottom_navigation_item.xml:27
 -keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/71f878751c312e5a1ce316523e39be12/material-1.0.0/res/layout/design_text_input_password_icon.xml:18
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/45763ff76661f4805f35fdeb585fd4cc/material-1.0.0/res/layout/design_text_input_password_icon.xml:18
 -keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/71f878751c312e5a1ce316523e39be12/material-1.0.0/res/layout/design_navigation_item.xml:17
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/45763ff76661f4805f35fdeb585fd4cc/material-1.0.0/res/layout/design_navigation_item.xml:17
 -keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/71f878751c312e5a1ce316523e39be12/material-1.0.0/res/layout/design_navigation_menu.xml:17
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/45763ff76661f4805f35fdeb585fd4cc/material-1.0.0/res/layout/design_navigation_menu.xml:17
 -keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/71f878751c312e5a1ce316523e39be12/material-1.0.0/res/layout/mtrl_layout_snackbar.xml:18
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/71f878751c312e5a1ce316523e39be12/material-1.0.0/res/layout/design_layout_snackbar.xml:18
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/45763ff76661f4805f35fdeb585fd4cc/material-1.0.0/res/layout/mtrl_layout_snackbar.xml:18
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/45763ff76661f4805f35fdeb585fd4cc/material-1.0.0/res/layout/design_layout_snackbar.xml:18
 -keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/71f878751c312e5a1ce316523e39be12/material-1.0.0/res/layout/mtrl_layout_snackbar_include.xml:18
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/71f878751c312e5a1ce316523e39be12/material-1.0.0/res/layout/design_layout_snackbar_include.xml:18
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/45763ff76661f4805f35fdeb585fd4cc/material-1.0.0/res/layout/mtrl_layout_snackbar_include.xml:18
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/45763ff76661f4805f35fdeb585fd4cc/material-1.0.0/res/layout/design_layout_snackbar_include.xml:18
 -keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/f6c5abf3cc5fdb1d0fb2867321935dd3/jetified-android-maps-utils-0.5/res/layout/amu_text_bubble.xml:7
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/53114238260155962e175e5c67df0715/jetified-android-maps-utils-0.5/res/layout/amu_text_bubble.xml:7
 -keep class com.google.maps.android.ui.RotationLayout { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/468893e3c43390820a6a21f8b4c20e2d/jetified-android-image-cropper-2.7.0/res/layout/crop_image_activity.xml:2
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/206135ba4fe1d3b1aa4aa2b1e84c48f1/jetified-android-image-cropper-2.7.0/res/layout/crop_image_activity.xml:2
 -keep class com.theartofdev.edmodo.cropper.CropImageView { <init>(...); }
 
-# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/468893e3c43390820a6a21f8b4c20e2d/jetified-android-image-cropper-2.7.0/res/layout/crop_image_view.xml:13
+# Referenced at /Users/corentingc/.gradle/caches/transforms-2/files-2.1/206135ba4fe1d3b1aa4aa2b1e84c48f1/jetified-android-image-cropper-2.7.0/res/layout/crop_image_view.xml:13
 -keep class com.theartofdev.edmodo.cropper.CropOverlayView { <init>(...); }
 
 # Referenced at /Users/corentingc/Desktop/smartphone-app/android/app/src/main/res/layout/error_fragment.xml:57

@@ -4,7 +4,7 @@
             "outputFile": "/Users/corentingc/Desktop/smartphone-app/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rES/values-es-rES.xml",
             "map": [
                 {
-                    "source": "/Users/corentingc/.gradle/caches/transforms-2/files-2.1/c69de68f64077253ef3ef2fd7f83bd06/jetified-facebook-login-5.0.1/res/values-es-rES/values-es-rES.xml",
+                    "source": "/Users/corentingc/.gradle/caches/transforms-2/files-2.1/39fd665d9303769fdae70679bde70c2e/jetified-facebook-login-5.0.1/res/values-es-rES/values-es-rES.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

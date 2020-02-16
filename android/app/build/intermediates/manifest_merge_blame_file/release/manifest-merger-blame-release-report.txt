@@ -118,80 +118,80 @@
 58
 59    <!-- WHEN_VERSIONING_REMOVE_FROM_HERE -->
 60    <supports-screens
-60-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:13:5-19:24
+60-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:13:5-19:24
 61        android:anyDensity="true"
-61-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:14:9-34
+61-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:14:9-34
 62        android:largeScreens="true"
-62-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:15:9-36
+62-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:15:9-36
 63        android:normalScreens="true"
-63-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:16:9-37
+63-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:16:9-37
 64        android:smallScreens="true"
-64-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:17:9-36
+64-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:17:9-36
 65        android:xlargeScreens="true" >
-65-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:18:9-37
+65-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:18:9-37
 66    </supports-screens>
 67
 68    <uses-permission android:name="host.exp.exponent.permission.C2D_MESSAGE" /> <!-- Used by react-native-netinfo module -->
-68-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:26:5-80
-68-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:26:22-77
+68-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:26:5-80
+68-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:26:22-77
 69    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-69-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:34:5-76
-69-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:34:22-73
+69-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:34:5-76
+69-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:34:22-73
 70
 71    <uses-feature
-71-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:47:5-49:36
+71-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:47:5-49:36
 72        android:name="android.hardware.camera"
-72-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:48:9-47
+72-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:48:9-47
 73        android:required="false" />
-73-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:49:9-33
+73-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:49:9-33
 74    <uses-feature
-74-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:50:5-52:36
+74-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:50:5-52:36
 75        android:name="android.hardware.camera.autofocus"
-75-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:51:9-57
+75-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:51:9-57
 76        android:required="false" />
-76-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:52:9-33
+76-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:52:9-33
 77    <uses-feature
-77-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:53:5-55:36
+77-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:53:5-55:36
 78        android:name="android.hardware.location"
-78-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:54:9-49
+78-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:54:9-49
 79        android:required="false" />
-79-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:55:9-33
+79-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:55:9-33
 80    <uses-feature
-80-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:56:5-58:36
+80-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:56:5-58:36
 81        android:name="android.hardware.location.gps"
-81-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:57:9-53
+81-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:57:9-53
 82        android:required="false" />
-82-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:58:9-33
+82-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:58:9-33
 83    <uses-feature
-83-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:59:5-61:36
+83-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:59:5-61:36
 84        android:name="android.hardware.location.network"
-84-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:60:9-57
+84-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:60:9-57
 85        android:required="false" />
-85-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:61:9-33
+85-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:61:9-33
 86    <uses-feature
-86-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:62:5-64:36
+86-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:62:5-64:36
 87        android:name="android.hardware.wifi"
-87-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:63:9-45
+87-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:63:9-45
 88        android:required="false" />
-88-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:64:9-33
+88-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:64:9-33
 89    <uses-feature
-89-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:65:5-67:36
+89-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:65:5-67:36
 90        android:name="android.hardware.microphone"
-90-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:66:9-51
+90-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:66:9-51
 91        android:required="false" />
-91-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:67:9-33
+91-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:67:9-33
 92    <uses-feature
-92-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:68:5-70:36
+92-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:68:5-70:36
 93        android:name="android.hardware.telephony"
-93-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:69:9-50
+93-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:69:9-50
 94        android:required="false" />
-94-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:70:9-33
+94-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:70:9-33
 95    <uses-feature
-95-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:71:5-73:36
+95-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:71:5-73:36
 96        android:name="android.hardware.bluetooth"
-96-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:72:9-50
+96-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:72:9-50
 97        android:required="false" />
-97-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:73:9-33
+97-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:73:9-33
 98
 99    <uses-permission android:name="android.permission.STORAGE" />
 99-->[:expo-file-system] /Users/corentingc/Desktop/smartphone-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-66
@@ -205,35 +205,35 @@
 104    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
 105    <!-- for Samsung -->
 106    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
-106-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:19:5-86
-106-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:19:22-83
+106-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:19:5-86
+106-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:19:22-83
 107    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
-107-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:20:5-87
-107-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:20:22-84
+107-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:20:5-87
+107-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:20:22-84
 108    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
-108-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:23:5-81
-108-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:23:22-78
+108-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:23:5-81
+108-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:23:22-78
 109    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
-109-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:24:5-83
-109-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:24:22-80
+109-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:24:5-83
+109-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:24:22-80
 110    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" /> <!-- for apex -->
-110-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:27:5-88
-110-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:27:22-85
+110-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:27:5-88
+110-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:27:22-85
 111    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
-111-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:30:5-84
-111-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:30:22-81
+111-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:30:5-84
+111-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:30:22-81
 112    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" />
-112-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:33:5-83
-112-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dd44d6dca430fddc25756188e590b806/ShortcutBadger-1.1.4/AndroidManifest.xml:33:22-80
+112-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:33:5-83
+112-->[me.leolin:ShortcutBadger:1.1.4] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/b7b12acd0b32d22d0bb6a4da39b44af2/ShortcutBadger-1.1.4/AndroidManifest.xml:33:22-80
 113    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
-113-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:15:5-98
-113-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:15:22-95
+113-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:15:5-98
+113-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:15:22-95
 114    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
-114-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:16:5-94
-114-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:16:22-91
+114-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:16:5-94
+114-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:16:22-91
 115    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-115-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:5-110
-115-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:22-107
+115-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:5-110
+115-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:22-107
 116
 117    <application
 117-->/Users/corentingc/Desktop/smartphone-app/android/app/src/main/AndroidManifest.xml:48:3-360:17
@@ -242,7 +242,7 @@
 119        android:allowBackup="true"
 119-->/Users/corentingc/Desktop/smartphone-app/android/app/src/main/AndroidManifest.xml:50:5-31
 120        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-120-->[androidx.core:core:1.1.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/37791d22cdf73b5c35c92eb9addd3f27/core-1.1.0/AndroidManifest.xml:24:18-86
+120-->[androidx.core:core:1.1.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/f000db53465cd35bb05587751d7da3c0/core-1.1.0/AndroidManifest.xml:24:18-86
 121        android:icon="@mipmap/ic_launcher"
 121-->/Users/corentingc/Desktop/smartphone-app/android/app/src/main/AndroidManifest.xml:51:5-39
 122        android:label="@string/app_name"
@@ -250,7 +250,7 @@
 123        android:largeHeap="true"
 123-->/Users/corentingc/Desktop/smartphone-app/android/app/src/main/AndroidManifest.xml:53:5-29
 124        android:supportsRtl="true"
-124-->[com.facebook.android:facebook-android-sdk:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/36d8e97a0dea5ca0c54825784f11758c/facebook-android-sdk-5.0.1/AndroidManifest.xml:28:18-44
+124-->[com.facebook.android:facebook-android-sdk:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/8c658b9af39854ad68c377390fb61c0c/facebook-android-sdk-5.0.1/AndroidManifest.xml:28:18-44
 125        android:usesCleartextTraffic="true" >
 125-->/Users/corentingc/Desktop/smartphone-app/android/app/src/main/AndroidManifest.xml:54:5-40
 126        <activity
@@ -631,7 +631,7 @@
 334            android:enabled="true"
 334-->/Users/corentingc/Desktop/smartphone-app/android/app/src/main/AndroidManifest.xml:260:15-37
 335            android:exported="false" >
-335-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/c0bd159e7e19028a7e43e1ebc66fc50c/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:33:13-37
+335-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/1567fffefe8f88d493bb7f97b4d800ec/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:33:13-37
 336            <intent-filter>
 336-->/Users/corentingc/Desktop/smartphone-app/android/app/src/main/AndroidManifest.xml:261:7-263:23
 337                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH" />
@@ -822,69 +822,69 @@
 449        <!-- WHEN_VERSIONING_REMOVE_FROM_HERE -->
 450        <!-- Scheduled notifications -->
 451        <receiver
-451-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:79:9-81:40
+451-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:79:9-81:40
 452            android:name="host.exp.exponent.notifications.ScheduledNotificationReceiver"
-452-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:80:13-89
+452-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:80:13-89
 453            android:exported="false" />
-453-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:81:13-37
+453-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:81:13-37
 454        <receiver
-454-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:82:9-92:20
+454-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:82:9-92:20
 455            android:name="host.exp.exponent.notifications.receivers.SchedulingTriggerReceiver"
-455-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:83:13-95
+455-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:83:13-95
 456            android:exported="true" >
-456-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:84:13-36
+456-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:84:13-36
 457            <intent-filter>
-457-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:85:13-91:29
+457-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:85:13-91:29
 458                <action android:name="android.intent.action.REBOOT" />
-458-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:86:17-71
-458-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:86:25-68
+458-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:86:17-71
+458-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:86:25-68
 459                <action android:name="android.intent.action.BOOT_COMPLETED" />
-459-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:87:17-79
-459-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:87:25-76
+459-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:87:17-79
+459-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:87:25-76
 460                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
-460-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:88:17-81
-460-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:88:25-78
+460-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:88:17-81
+460-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:88:25-78
 461                <action android:name="android.intent.action.TIME_CHANGED" />
-461-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:89:17-77
-461-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:89:25-74
+461-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:89:17-77
+461-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:89:25-74
 462                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-462-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:90:17-82
-462-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:90:25-79
+462-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:90:17-82
+462-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:90:25-79
 463            </intent-filter>
 464        </receiver> <!-- WHEN_VERSIONING_REMOVE_TO_HERE -->
 465        <provider
-465-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:96:9-104:20
+465-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:96:9-104:20
 466            android:name="androidx.core.content.FileProvider"
-466-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:97:13-62
+466-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:97:13-62
 467            android:authorities="app.blank.template.provider"
-467-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:98:13-60
+467-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:98:13-60
 468            android:exported="false"
-468-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:99:13-37
+468-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:99:13-37
 469            android:grantUriPermissions="true" >
-469-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:100:13-47
+469-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:100:13-47
 470            <meta-data
-470-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:101:13-103:58
+470-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:101:13-103:58
 471                android:name="android.support.FILE_PROVIDER_PATHS"
-471-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:102:17-67
+471-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:102:17-67
 472                android:resource="@xml/provider_paths" />
-472-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:103:17-55
+472-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:103:17-55
 473        </provider>
 474        <provider
-474-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:105:9-113:20
+474-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:105:9-113:20
 475            android:name="versioned.host.exp.exponent.modules.api.components.webview.RNCWebViewFileProvider"
-475-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:106:13-109
+475-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:106:13-109
 476            android:authorities="app.blank.template.fileprovider"
-476-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:107:13-64
+476-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:107:13-64
 477            android:exported="false"
-477-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:108:13-37
+477-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:108:13-37
 478            android:grantUriPermissions="true" >
-478-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:109:13-47
+478-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:109:13-47
 479            <meta-data
-479-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:101:13-103:58
+479-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:101:13-103:58
 480                android:name="android.support.FILE_PROVIDER_PATHS"
-480-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:102:17-67
+480-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:102:17-67
 481                android:resource="@xml/provider_paths" />
-481-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:103:17-55
+481-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:103:17-55
 482        </provider>
 483        <provider
 483-->[:expo-file-system] /Users/corentingc/Desktop/smartphone-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:9-27:20
@@ -897,11 +897,11 @@
 487            android:grantUriPermissions="true" >
 487-->[:expo-file-system] /Users/corentingc/Desktop/smartphone-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:22:13-47
 488            <meta-data
-488-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:101:13-103:58
+488-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:101:13-103:58
 489                android:name="android.support.FILE_PROVIDER_PATHS"
-489-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:102:17-67
+489-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:102:17-67
 490                android:resource="@xml/file_system_provider_paths" />
-490-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6fcbc246a29c77a89d7e23de7fa64893/expoview-36.0.0/AndroidManifest.xml:103:17-55
+490-->[host.exp.exponent:expoview:36.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ffe68849fe675db4e7ad3bc755524f94/expoview-36.0.0/AndroidManifest.xml:103:17-55
 491        </provider>
 492
 493        <service
@@ -912,123 +912,123 @@
 495-->[:expo-location] /Users/corentingc/Desktop/smartphone-app/node_modules/expo-location/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-37
 496
 497        <activity android:name="com.facebook.CustomTabMainActivity" />
-497-->[com.facebook.android:facebook-common:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/43e42500c75981191c56ef04d2002265/jetified-facebook-common-5.0.1/AndroidManifest.xml:33:9-71
-497-->[com.facebook.android:facebook-common:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/43e42500c75981191c56ef04d2002265/jetified-facebook-common-5.0.1/AndroidManifest.xml:33:19-68
+497-->[com.facebook.android:facebook-common:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ae31a20c2667f68d93b45581e3e8051b/jetified-facebook-common-5.0.1/AndroidManifest.xml:33:9-71
+497-->[com.facebook.android:facebook-common:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ae31a20c2667f68d93b45581e3e8051b/jetified-facebook-common-5.0.1/AndroidManifest.xml:33:19-68
 498        <activity android:name="com.facebook.CustomTabActivity" />
-498-->[com.facebook.android:facebook-common:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/43e42500c75981191c56ef04d2002265/jetified-facebook-common-5.0.1/AndroidManifest.xml:34:9-67
-498-->[com.facebook.android:facebook-common:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/43e42500c75981191c56ef04d2002265/jetified-facebook-common-5.0.1/AndroidManifest.xml:34:19-64
+498-->[com.facebook.android:facebook-common:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ae31a20c2667f68d93b45581e3e8051b/jetified-facebook-common-5.0.1/AndroidManifest.xml:34:9-67
+498-->[com.facebook.android:facebook-common:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ae31a20c2667f68d93b45581e3e8051b/jetified-facebook-common-5.0.1/AndroidManifest.xml:34:19-64
 499        <activity
-499-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:15:9-18:40
+499-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:15:9-18:40
 500            android:name="com.facebook.ads.AudienceNetworkActivity"
-500-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:16:13-68
+500-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:16:13-68
 501            android:configChanges="keyboardHidden|orientation|screenSize"
-501-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:17:13-74
+501-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:17:13-74
 502            android:exported="false" />
-502-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:18:13-37
+502-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:18:13-37
 503        <activity
-503-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:19:9-23:39
+503-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:19:9-23:39
 504            android:name="com.facebook.ads.internal.ipc.RemoteANActivity"
-504-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:20:13-74
+504-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:20:13-74
 505            android:configChanges="keyboardHidden|orientation|screenSize"
-505-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:21:13-74
+505-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:21:13-74
 506            android:exported="false"
-506-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:22:13-37
+506-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:22:13-37
 507            android:process=":adnw" />
-507-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:23:13-36
+507-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:23:13-36
 508
 509        <service
-509-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:25:9-27:40
+509-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:25:9-27:40
 510            android:name="com.facebook.ads.internal.ipc.AdsProcessPriorityService"
-510-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:26:13-83
+510-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:26:13-83
 511            android:exported="false" />
-511-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:27:13-37
+511-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:27:13-37
 512        <service
-512-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:28:9-31:39
+512-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:28:9-31:39
 513            android:name="com.facebook.ads.internal.ipc.AdsMessengerService"
-513-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:29:13-77
+513-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:29:13-77
 514            android:exported="false"
-514-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:30:13-37
+514-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:30:13-37
 515            android:process=":adnw" />
-515-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5eb976ccd20db509be729324b0c4214b/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:31:13-36
+515-->[com.facebook.android:audience-network-sdk:5.1.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/671b275a5911c581a2cc60b70087801f/jetified-audience-network-sdk-5.1.1/AndroidManifest.xml:31:13-36
 516        <service
-516-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/c0bd159e7e19028a7e43e1ebc66fc50c/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:40:9-44:72
+516-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/1567fffefe8f88d493bb7f97b4d800ec/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:40:9-44:72
 517            android:name="com.google.android.gms.analytics.AnalyticsJobService"
-517-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/c0bd159e7e19028a7e43e1ebc66fc50c/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:41:13-80
+517-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/1567fffefe8f88d493bb7f97b4d800ec/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:41:13-80
 518            android:enabled="true"
-518-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/c0bd159e7e19028a7e43e1ebc66fc50c/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:42:13-35
+518-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/1567fffefe8f88d493bb7f97b4d800ec/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:42:13-35
 519            android:exported="false"
-519-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/c0bd159e7e19028a7e43e1ebc66fc50c/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:43:13-37
+519-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/1567fffefe8f88d493bb7f97b4d800ec/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:43:13-37
 520            android:permission="android.permission.BIND_JOB_SERVICE" /> <!-- Needs to be explicitly declared on P+ -->
-520-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/c0bd159e7e19028a7e43e1ebc66fc50c/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:44:13-69
+520-->[com.google.android.gms:play-services-analytics:16.0.8] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/1567fffefe8f88d493bb7f97b4d800ec/jetified-play-services-analytics-16.0.8/AndroidManifest.xml:44:13-69
 521        <uses-library
-521-->[com.google.android.gms:play-services-maps:16.1.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/21f2d4835df216902217a3cc36ebe9de/jetified-play-services-maps-16.1.0/AndroidManifest.xml:33:9-35:40
+521-->[com.google.android.gms:play-services-maps:16.1.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/2142bea907b4ba822f2b4b8a096c2b9a/jetified-play-services-maps-16.1.0/AndroidManifest.xml:33:9-35:40
 522            android:name="org.apache.http.legacy"
-522-->[com.google.android.gms:play-services-maps:16.1.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/21f2d4835df216902217a3cc36ebe9de/jetified-play-services-maps-16.1.0/AndroidManifest.xml:34:13-50
+522-->[com.google.android.gms:play-services-maps:16.1.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/2142bea907b4ba822f2b4b8a096c2b9a/jetified-play-services-maps-16.1.0/AndroidManifest.xml:34:13-50
 523            android:required="false" />
-523-->[com.google.android.gms:play-services-maps:16.1.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/21f2d4835df216902217a3cc36ebe9de/jetified-play-services-maps-16.1.0/AndroidManifest.xml:35:13-37
+523-->[com.google.android.gms:play-services-maps:16.1.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/2142bea907b4ba822f2b4b8a096c2b9a/jetified-play-services-maps-16.1.0/AndroidManifest.xml:35:13-37
 524
 525        <activity
-525-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/a5b3da69bfc89721e78e5c2f19bdec57/jetified-play-services-auth-16.0.1/AndroidManifest.xml:23:9-27:75
+525-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/f09b72ce76aab6cd86cb2106a2ccc303/jetified-play-services-auth-16.0.1/AndroidManifest.xml:23:9-27:75
 526            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-526-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/a5b3da69bfc89721e78e5c2f19bdec57/jetified-play-services-auth-16.0.1/AndroidManifest.xml:24:13-93
+526-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/f09b72ce76aab6cd86cb2106a2ccc303/jetified-play-services-auth-16.0.1/AndroidManifest.xml:24:13-93
 527            android:excludeFromRecents="true"
-527-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/a5b3da69bfc89721e78e5c2f19bdec57/jetified-play-services-auth-16.0.1/AndroidManifest.xml:25:13-46
+527-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/f09b72ce76aab6cd86cb2106a2ccc303/jetified-play-services-auth-16.0.1/AndroidManifest.xml:25:13-46
 528            android:exported="false"
-528-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/a5b3da69bfc89721e78e5c2f19bdec57/jetified-play-services-auth-16.0.1/AndroidManifest.xml:26:13-37
+528-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/f09b72ce76aab6cd86cb2106a2ccc303/jetified-play-services-auth-16.0.1/AndroidManifest.xml:26:13-37
 529            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-529-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/a5b3da69bfc89721e78e5c2f19bdec57/jetified-play-services-auth-16.0.1/AndroidManifest.xml:27:13-72
+529-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/f09b72ce76aab6cd86cb2106a2ccc303/jetified-play-services-auth-16.0.1/AndroidManifest.xml:27:13-72
 530        <!--
 531            Service handling Google Sign-In user revocation. For apps that do not integrate with
 532            Google Sign-In, this service will never be started.
 533        -->
 534        <service
-534-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/a5b3da69bfc89721e78e5c2f19bdec57/jetified-play-services-auth-16.0.1/AndroidManifest.xml:33:9-36:110
+534-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/f09b72ce76aab6cd86cb2106a2ccc303/jetified-play-services-auth-16.0.1/AndroidManifest.xml:33:9-36:110
 535            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-535-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/a5b3da69bfc89721e78e5c2f19bdec57/jetified-play-services-auth-16.0.1/AndroidManifest.xml:34:13-89
+535-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/f09b72ce76aab6cd86cb2106a2ccc303/jetified-play-services-auth-16.0.1/AndroidManifest.xml:34:13-89
 536            android:exported="true"
-536-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/a5b3da69bfc89721e78e5c2f19bdec57/jetified-play-services-auth-16.0.1/AndroidManifest.xml:35:13-36
+536-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/f09b72ce76aab6cd86cb2106a2ccc303/jetified-play-services-auth-16.0.1/AndroidManifest.xml:35:13-36
 537            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-537-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/a5b3da69bfc89721e78e5c2f19bdec57/jetified-play-services-auth-16.0.1/AndroidManifest.xml:36:13-107
+537-->[com.google.android.gms:play-services-auth:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/f09b72ce76aab6cd86cb2106a2ccc303/jetified-play-services-auth-16.0.1/AndroidManifest.xml:36:13-107
 538
 539        <activity
-539-->[net.openid:appauth:0.7.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/18893a9763d1740b265b405c13b28f81/jetified-appauth-0.7.1/AndroidManifest.xml:27:9-31:75
+539-->[net.openid:appauth:0.7.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/3527cde74a48a109b1a8266d44054ba4/jetified-appauth-0.7.1/AndroidManifest.xml:27:9-31:75
 540            android:name="net.openid.appauth.AuthorizationManagementActivity"
-540-->[net.openid:appauth:0.7.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/18893a9763d1740b265b405c13b28f81/jetified-appauth-0.7.1/AndroidManifest.xml:28:13-78
+540-->[net.openid:appauth:0.7.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/3527cde74a48a109b1a8266d44054ba4/jetified-appauth-0.7.1/AndroidManifest.xml:28:13-78
 541            android:exported="false"
-541-->[net.openid:appauth:0.7.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/18893a9763d1740b265b405c13b28f81/jetified-appauth-0.7.1/AndroidManifest.xml:29:13-37
+541-->[net.openid:appauth:0.7.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/3527cde74a48a109b1a8266d44054ba4/jetified-appauth-0.7.1/AndroidManifest.xml:29:13-37
 542            android:launchMode="singleTask"
-542-->[net.openid:appauth:0.7.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/18893a9763d1740b265b405c13b28f81/jetified-appauth-0.7.1/AndroidManifest.xml:30:13-44
+542-->[net.openid:appauth:0.7.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/3527cde74a48a109b1a8266d44054ba4/jetified-appauth-0.7.1/AndroidManifest.xml:30:13-44
 543            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-543-->[net.openid:appauth:0.7.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/18893a9763d1740b265b405c13b28f81/jetified-appauth-0.7.1/AndroidManifest.xml:31:13-72
+543-->[net.openid:appauth:0.7.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/3527cde74a48a109b1a8266d44054ba4/jetified-appauth-0.7.1/AndroidManifest.xml:31:13-72
 544
 545        <service
-545-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:19:9-21:40
+545-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:19:9-21:40
 546            android:name="io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService"
-546-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:20:13-132
+546-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:20:13-132
 547            android:exported="false" />
-547-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:21:13-37
+547-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:21:13-37
 548        <service
-548-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:22:9-24:40
+548-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:22:9-24:40
 549            android:name="io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService"
-549-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:23:13-127
+549-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:23:13-127
 550            android:exported="false" />
-550-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:24:13-37
+550-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:24:13-37
 551        <service
-551-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:25:9-27:40
+551-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:25:9-27:40
 552            android:name="io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService"
-552-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:26:13-120
+552-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:26:13-120
 553            android:exported="false" />
-553-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6e51a32884b8c0b5d5b74577a7eeacd1/jetified-library-3.2.11/AndroidManifest.xml:27:13-37
+553-->[io.nlopez.smartlocation:library:3.2.11] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/ef5a0023b171f8f2a8a6970a437631a7/jetified-library-3.2.11/AndroidManifest.xml:27:13-37
 554        <!--
 555             FirebaseMessagingService performs security checks at runtime,
 556             but set to not exported to explicitly avoid allowing another app to call it.
 557        -->
 558        <service
-558-->[com.google.firebase:firebase-messaging:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/2e9edf36e24a627100a0007ee63456d3/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:28:9-34:19
+558-->[com.google.firebase:firebase-messaging:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/22d582171eff3492e906621d1a33cbdf/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:28:9-34:19
 559            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-559-->[com.google.firebase:firebase-messaging:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/2e9edf36e24a627100a0007ee63456d3/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:29:13-82
+559-->[com.google.firebase:firebase-messaging:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/22d582171eff3492e906621d1a33cbdf/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:29:13-82
 560            android:exported="false" >
-560-->[com.google.firebase:firebase-messaging:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/2e9edf36e24a627100a0007ee63456d3/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:30:13-37
+560-->[com.google.firebase:firebase-messaging:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/22d582171eff3492e906621d1a33cbdf/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:30:13-37
 561            <intent-filter android:priority="-500" >
 561-->/Users/corentingc/Desktop/smartphone-app/android/app/src/main/AndroidManifest.xml:305:7-307:23
 562                <action android:name="com.google.firebase.MESSAGING_EVENT" />
@@ -1037,33 +1037,33 @@
 563            </intent-filter>
 564        </service>
 565        <service
-565-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/660b72ad530ec1f4f414ebc503060e56/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:27:9-33:19
+565-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/3ee2c715e45496dc7cd69831b86853df/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:27:9-33:19
 566            android:name="com.google.firebase.components.ComponentDiscoveryService"
-566-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/660b72ad530ec1f4f414ebc503060e56/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:28:13-84
+566-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/3ee2c715e45496dc7cd69831b86853df/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:28:13-84
 567            android:exported="false" >
-567-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/660b72ad530ec1f4f414ebc503060e56/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:29:13-37
+567-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/3ee2c715e45496dc7cd69831b86853df/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:29:13-37
 568            <meta-data
-568-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/660b72ad530ec1f4f414ebc503060e56/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:30:13-32:85
+568-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/3ee2c715e45496dc7cd69831b86853df/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:30:13-32:85
 569                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-569-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/660b72ad530ec1f4f414ebc503060e56/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:31:17-139
+569-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/3ee2c715e45496dc7cd69831b86853df/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:31:17-139
 570                android:value="com.google.firebase.components.ComponentRegistrar" />
-570-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/660b72ad530ec1f4f414ebc503060e56/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:32:17-82
+570-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/3ee2c715e45496dc7cd69831b86853df/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:32:17-82
 571            <meta-data
-571-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6b761cd051773087eba46d82bfbdb2d8/jetified-firebase-iid-18.0.0/AndroidManifest.xml:32:13-34:85
+571-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/54f4ce6eb6275cb7216ad289ae21c3ef/jetified-firebase-iid-18.0.0/AndroidManifest.xml:32:13-34:85
 572                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-572-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6b761cd051773087eba46d82bfbdb2d8/jetified-firebase-iid-18.0.0/AndroidManifest.xml:33:17-96
+572-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/54f4ce6eb6275cb7216ad289ae21c3ef/jetified-firebase-iid-18.0.0/AndroidManifest.xml:33:17-96
 573                android:value="com.google.firebase.components.ComponentRegistrar" />
-573-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6b761cd051773087eba46d82bfbdb2d8/jetified-firebase-iid-18.0.0/AndroidManifest.xml:34:17-82
+573-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/54f4ce6eb6275cb7216ad289ae21c3ef/jetified-firebase-iid-18.0.0/AndroidManifest.xml:34:17-82
 574        </service>
 575
 576        <receiver
-576-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6b761cd051773087eba46d82bfbdb2d8/jetified-firebase-iid-18.0.0/AndroidManifest.xml:37:9-44:20
+576-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/54f4ce6eb6275cb7216ad289ae21c3ef/jetified-firebase-iid-18.0.0/AndroidManifest.xml:37:9-44:20
 577            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-577-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6b761cd051773087eba46d82bfbdb2d8/jetified-firebase-iid-18.0.0/AndroidManifest.xml:38:13-78
+577-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/54f4ce6eb6275cb7216ad289ae21c3ef/jetified-firebase-iid-18.0.0/AndroidManifest.xml:38:13-78
 578            android:exported="true"
-578-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6b761cd051773087eba46d82bfbdb2d8/jetified-firebase-iid-18.0.0/AndroidManifest.xml:39:13-36
+578-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/54f4ce6eb6275cb7216ad289ae21c3ef/jetified-firebase-iid-18.0.0/AndroidManifest.xml:39:13-36
 579            android:permission="com.google.android.c2dm.permission.SEND" >
-579-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6b761cd051773087eba46d82bfbdb2d8/jetified-firebase-iid-18.0.0/AndroidManifest.xml:40:13-73
+579-->[com.google.firebase:firebase-iid:18.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/54f4ce6eb6275cb7216ad289ae21c3ef/jetified-firebase-iid-18.0.0/AndroidManifest.xml:40:13-73
 580            <intent-filter>
 580-->/Users/corentingc/Desktop/smartphone-app/android/app/src/main/AndroidManifest.xml:286:7-288:23
 581                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
@@ -1073,44 +1073,44 @@
 583        </receiver>
 584
 585        <activity
-585-->[com.google.android.gms:play-services-base:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/849546a3b95c0af0f5ab8bc6f0e83b5b/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+585-->[com.google.android.gms:play-services-base:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dabe4fa7e8e5f31177eacf9cb99b5c12/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
 586            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-586-->[com.google.android.gms:play-services-base:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/849546a3b95c0af0f5ab8bc6f0e83b5b/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+586-->[com.google.android.gms:play-services-base:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dabe4fa7e8e5f31177eacf9cb99b5c12/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
 587            android:exported="false"
-587-->[com.google.android.gms:play-services-base:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/849546a3b95c0af0f5ab8bc6f0e83b5b/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+587-->[com.google.android.gms:play-services-base:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dabe4fa7e8e5f31177eacf9cb99b5c12/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
 588            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-588-->[com.google.android.gms:play-services-base:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/849546a3b95c0af0f5ab8bc6f0e83b5b/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+588-->[com.google.android.gms:play-services-base:16.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/dabe4fa7e8e5f31177eacf9cb99b5c12/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
 589
 590        <provider
-590-->[com.google.firebase:firebase-common:17.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/e49c5a001459dc5dc29213245d2caee3/jetified-firebase-common-17.0.0/AndroidManifest.xml:12:9-16:39
+590-->[com.google.firebase:firebase-common:17.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6522a3b0e1defa4d9d758720916432b1/jetified-firebase-common-17.0.0/AndroidManifest.xml:12:9-16:39
 591            android:name="com.google.firebase.provider.FirebaseInitProvider"
-591-->[com.google.firebase:firebase-common:17.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/e49c5a001459dc5dc29213245d2caee3/jetified-firebase-common-17.0.0/AndroidManifest.xml:13:13-77
+591-->[com.google.firebase:firebase-common:17.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6522a3b0e1defa4d9d758720916432b1/jetified-firebase-common-17.0.0/AndroidManifest.xml:13:13-77
 592            android:authorities="app.blank.template.firebaseinitprovider"
-592-->[com.google.firebase:firebase-common:17.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/e49c5a001459dc5dc29213245d2caee3/jetified-firebase-common-17.0.0/AndroidManifest.xml:14:13-72
+592-->[com.google.firebase:firebase-common:17.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6522a3b0e1defa4d9d758720916432b1/jetified-firebase-common-17.0.0/AndroidManifest.xml:14:13-72
 593            android:exported="false"
-593-->[com.google.firebase:firebase-common:17.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/e49c5a001459dc5dc29213245d2caee3/jetified-firebase-common-17.0.0/AndroidManifest.xml:15:13-37
+593-->[com.google.firebase:firebase-common:17.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6522a3b0e1defa4d9d758720916432b1/jetified-firebase-common-17.0.0/AndroidManifest.xml:15:13-37
 594            android:initOrder="100" />
-594-->[com.google.firebase:firebase-common:17.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/e49c5a001459dc5dc29213245d2caee3/jetified-firebase-common-17.0.0/AndroidManifest.xml:16:13-36
+594-->[com.google.firebase:firebase-common:17.0.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/6522a3b0e1defa4d9d758720916432b1/jetified-firebase-common-17.0.0/AndroidManifest.xml:16:13-36
 595
 596        <receiver
-596-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:29:9-33:20
+596-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:29:9-33:20
 597            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-597-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:30:13-85
+597-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:30:13-85
 598            android:enabled="true"
-598-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:31:13-35
+598-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:31:13-35
 599            android:exported="false" >
-599-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:32:13-37
+599-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:32:13-37
 600        </receiver>
 601        <receiver
-601-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:34:9-42:20
+601-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:34:9-42:20
 602            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
-602-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:35:13-100
+602-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:35:13-100
 603            android:enabled="true"
-603-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:36:13-35
+603-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:36:13-35
 604            android:exported="true"
-604-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:37:13-36
+604-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:37:13-36
 605            android:permission="android.permission.INSTALL_PACKAGES" >
-605-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:38:13-69
+605-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:38:13-69
 606            <intent-filter>
 606-->/Users/corentingc/Desktop/smartphone-app/android/app/src/main/AndroidManifest.xml:246:7-248:23
 607                <action android:name="com.android.vending.INSTALL_REFERRER" />
@@ -1120,30 +1120,30 @@
 609        </receiver>
 610
 611        <service
-611-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:44:9-47:40
+611-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:44:9-47:40
 612            android:name="com.google.android.gms.measurement.AppMeasurementService"
-612-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:45:13-84
+612-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:45:13-84
 613            android:enabled="true"
-613-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:46:13-35
+613-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:46:13-35
 614            android:exported="false" />
-614-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:47:13-37
+614-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:47:13-37
 615        <service
-615-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:48:9-52:72
+615-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:48:9-52:72
 616            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-616-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:49:13-87
+616-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:49:13-87
 617            android:enabled="true"
-617-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:50:13-35
+617-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:50:13-35
 618            android:exported="false"
-618-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:51:13-37
+618-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:51:13-37
 619            android:permission="android.permission.BIND_JOB_SERVICE" />
-619-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/90f614ebc993971ce2ea8d118a1d314c/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:52:13-69
+619-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0b94a4219092b1fbf619ac7f349f5401/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:52:13-69
 620
 621        <meta-data
-621-->[com.google.android.gms:play-services-basement:16.2.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/c76cc0d488492cadfcd1b01c4ee963f1/jetified-play-services-basement-16.2.0/AndroidManifest.xml:23:9-25:69
+621-->[com.google.android.gms:play-services-basement:16.2.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/1eec4c479d05bed5201e31dd0588c382/jetified-play-services-basement-16.2.0/AndroidManifest.xml:23:9-25:69
 622            android:name="com.google.android.gms.version"
-622-->[com.google.android.gms:play-services-basement:16.2.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/c76cc0d488492cadfcd1b01c4ee963f1/jetified-play-services-basement-16.2.0/AndroidManifest.xml:24:13-58
+622-->[com.google.android.gms:play-services-basement:16.2.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/1eec4c479d05bed5201e31dd0588c382/jetified-play-services-basement-16.2.0/AndroidManifest.xml:24:13-58
 623            android:value="@integer/google_play_services_version" />
-623-->[com.google.android.gms:play-services-basement:16.2.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/c76cc0d488492cadfcd1b01c4ee963f1/jetified-play-services-basement-16.2.0/AndroidManifest.xml:25:13-66
+623-->[com.google.android.gms:play-services-basement:16.2.0] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/1eec4c479d05bed5201e31dd0588c382/jetified-play-services-basement-16.2.0/AndroidManifest.xml:25:13-66
 624        <!--
 625         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
 626         with the application context. This config is merged in with the host app's manifest,
@@ -1154,35 +1154,35 @@
 631         a completely different provider.
 632        -->
 633        <provider
-633-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:39:9-42:40
+633-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:39:9-42:40
 634            android:name="com.facebook.internal.FacebookInitProvider"
-634-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:40:13-70
+634-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:40:13-70
 635            android:authorities="app.blank.template.FacebookInitProvider"
-635-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:41:13-72
+635-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:41:13-72
 636            android:exported="false" />
-636-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:42:13-37
+636-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:42:13-37
 637
 638        <receiver
-638-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:44:9-50:20
+638-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:44:9-50:20
 639            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
-639-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:45:13-86
+639-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:45:13-86
 640            android:exported="false" >
-640-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:46:13-37
+640-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:46:13-37
 641            <intent-filter>
-641-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:47:13-49:29
+641-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:47:13-49:29
 642                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
-642-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:48:17-95
-642-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:48:25-92
+642-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:48:17-95
+642-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:48:25-92
 643            </intent-filter>
 644        </receiver>
 645        <receiver
-645-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:51:9-58:20
+645-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:51:9-58:20
 646            android:name="com.facebook.CampaignTrackingReceiver"
-646-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:52:13-65
+646-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:52:13-65
 647            android:exported="true"
-647-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:53:13-36
+647-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:53:13-36
 648            android:permission="android.permission.INSTALL_PACKAGES" >
-648-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5576e677d7a0279e90f042308125321f/jetified-facebook-core-5.0.1/AndroidManifest.xml:54:13-69
+648-->[com.facebook.android:facebook-core:5.0.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/0c4f1b8c41d714f8842a8a01c50d9e3f/jetified-facebook-core-5.0.1/AndroidManifest.xml:54:13-69
 649            <intent-filter>
 649-->/Users/corentingc/Desktop/smartphone-app/android/app/src/main/AndroidManifest.xml:246:7-248:23
 650                <action android:name="com.android.vending.INSTALL_REFERRER" />
@@ -1192,15 +1192,15 @@
 652        </receiver>
 653
 654        <provider
-654-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5c9f523777cd55a50274706caa4e2a4c/jetified-crashlytics-2.10.1/AndroidManifest.xml:19:9-23:38
+654-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5e233f675428a2d689519a90f6bda2b6/jetified-crashlytics-2.10.1/AndroidManifest.xml:19:9-23:38
 655            android:name="com.crashlytics.android.CrashlyticsInitProvider"
-655-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5c9f523777cd55a50274706caa4e2a4c/jetified-crashlytics-2.10.1/AndroidManifest.xml:20:13-75
+655-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5e233f675428a2d689519a90f6bda2b6/jetified-crashlytics-2.10.1/AndroidManifest.xml:20:13-75
 656            android:authorities="app.blank.template.crashlyticsinitprovider"
-656-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5c9f523777cd55a50274706caa4e2a4c/jetified-crashlytics-2.10.1/AndroidManifest.xml:21:13-75
+656-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5e233f675428a2d689519a90f6bda2b6/jetified-crashlytics-2.10.1/AndroidManifest.xml:21:13-75
 657            android:exported="false"
-657-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5c9f523777cd55a50274706caa4e2a4c/jetified-crashlytics-2.10.1/AndroidManifest.xml:22:13-37
+657-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5e233f675428a2d689519a90f6bda2b6/jetified-crashlytics-2.10.1/AndroidManifest.xml:22:13-37
 658            android:initOrder="90" />
-658-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5c9f523777cd55a50274706caa4e2a4c/jetified-crashlytics-2.10.1/AndroidManifest.xml:23:13-35
+658-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/corentingc/.gradle/caches/transforms-2/files-2.1/5e233f675428a2d689519a90f6bda2b6/jetified-crashlytics-2.10.1/AndroidManifest.xml:23:13-35
 659    </application>
 660
 661</manifest>

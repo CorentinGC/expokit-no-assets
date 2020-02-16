@@ -1,4 +1,4 @@
-#Fri Feb 14 03:21:47 CET 2020
+#Sun Feb 16 02:35:27 CET 2020
 base.0=/Users/corentingc/Desktop/smartphone-app/android/app/build/intermediates/transforms/r8/release/0/classes.dex
 path.1=classes2.dex
 renamed.1=classes2.dex

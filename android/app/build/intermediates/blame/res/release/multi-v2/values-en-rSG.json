@@ -4,7 +4,7 @@
             "outputFile": "/Users/corentingc/Desktop/smartphone-app/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rSG/values-en-rSG.xml",
             "map": [
                 {
-                    "source": "/Users/corentingc/.gradle/caches/transforms-2/files-2.1/36cdbfe7c3838f1ea16e02a5e6c603f4/jetified-play-services-wallet-16.0.1/res/values-en-rSG/values.xml",
+                    "source": "/Users/corentingc/.gradle/caches/transforms-2/files-2.1/91e379ed328a1e801f610ae4f7843982/jetified-play-services-wallet-16.0.1/res/values-en-rSG/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
